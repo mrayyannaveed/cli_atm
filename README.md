@@ -1,2 +1,9 @@
 # cli_atm
-Making ATM Machine
+This is advanced ATM machine,
+Which is used for
+{
+withdraw,
+check balance,
+fast cash,
+deposit cash
+}
